@@ -19,7 +19,7 @@ to the deployment questions which would be asked as part of the roll-out process
 Therefore the release scripts + the answers to the release questions and the application code \
 could all be reviewed in advance, and maintained within version control and tied to a unique revision number.
 
-The bash script is really just a port of the python version.  It doesn't handle ini files in the standard format yet. \
+The bash script is really just a port of the python version.  It doesn't handle ini files in the standard format yet. 
 
 #### Bash 
 The bash file has a separate file for examples:
@@ -29,7 +29,7 @@ shell> ./auto_conf_tests.sh
 
 caveats: 
  - it can / should be improved ;)
- - it's output is uglier
+ - it's output is uglier than the python script
  - and it hasn't been used in a production environment
  - should use an ini-parser library
 
