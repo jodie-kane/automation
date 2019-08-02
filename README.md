@@ -4,7 +4,8 @@ I created it to help automate what was a completely manual deployment process.
 It's Hideously Functional (tm). \
 (but not as ugly as the recent bash re-write :P )
 
-#### Example virtualenv python usage:
+#### Python
+The python version has examples at the end of the file
 ```bash
 shell> virtualenv -p python2.7 ~/path/to/virtenvs/fabric
 shell> source ~/path/to/virtenvs/fabric/bin/activate
@@ -20,7 +21,8 @@ could all be reviewed in advance, and maintained within version control and tied
 
 The bash script is really just a port of the python version.  It doesn't handle ini files in the standard format yet. \
 
-#### To see example usage run/look in the file:
+#### Bash 
+The bash file has a separate file for examples:
 ```bash
 shell> ./auto_conf_tests.sh
 ```
