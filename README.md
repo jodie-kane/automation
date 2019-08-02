@@ -22,5 +22,6 @@ caveats:
  - it can / should be improved ;)
  - it's output is uglier
  - and it hasn't been used in a production environment
+ - should use an ini-parser library
 
 It was really a practice exercise to 'keep my eye in'
