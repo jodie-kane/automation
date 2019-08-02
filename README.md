@@ -1,4 +1,4 @@
-The conf.py is used with fabric (upto v1.14.1 AFAICT)
+The conf.py is used with fabric (upto v1.14.1 AFAICT) \
 I created it to help automate what was a completely manual deployment process.
 
 It's Hideously Functional (tm).
